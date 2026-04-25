@@ -13,7 +13,8 @@
 ---
 
 ### [공지] 2026년 춘계학술대회: 민주주의의 다층적 재구성
-![춘계학술대회 포스터](./images/poster_spring_2026.jpg)
+<img alt="춘계학술대회 포스터" src="https://github.com/cydemo/criso-newsletter-archive/blob/master/newsletters/issue-60/images/downloadBoardImage.1.png?raw=true" width="600" />
+
 * **일시:** 4월 18일(토)
 * **장소:** 경북대학교 사회과학대학
 * **주제:** 차별·혐오와 민주주의, 일상의 민주주의와 회복, 신자유주의 비판 등 다양한 세션 및 라운드테이블 진행
